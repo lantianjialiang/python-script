@@ -108,7 +108,6 @@ def retry(attemptTime):
 
 def main():
 #    retry(2)
-    print "test"
     urlAddress = "http://manhua.fzdm.com/1/";
     parser = PageParser(urlAddress, "dddd\\")
     parser.downloadAllPages()
