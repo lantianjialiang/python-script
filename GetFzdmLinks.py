@@ -107,10 +107,10 @@ def retry(attemptTime):
     print "tried " + str(attempts) + " times"
 
 def main():
-    retry(2)
-#    urlAddress = "http://manhua.fzdm.com/1/";
-#    parser = PageParser(urlAddress, "dddd\\")
-#    parser.downloadAllPages()
+#    retry(2)
+    urlAddress = "http://manhua.fzdm.com/1/";
+    parser = PageParser(urlAddress, "dddd\\")
+    parser.downloadAllPages()
         
 if __name__ == '__main__':
     main();
