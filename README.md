@@ -31,5 +31,7 @@ Before you run this script, please change the L37 to your wanted video address
 Note: You must take all responsibilies when you use the script which I supply.
 你需要承担所有的责任在使用我所提供的脚本时。如果侵犯到谁的版权，请发信告知，我会第一时间处理。
 
+在脚本中没有进行异常处理，如果需要，请自行修改。在运行这些脚本之前，请安装Python 和 Beautiful Soup
+
 
 
